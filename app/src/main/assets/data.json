@@ -1,0 +1,42 @@
+[
+  {
+    "id":1,
+    "image":"https://www.alia.ge/wp-content/uploads/2022/09/grisha.jpg",
+    "owner":"გრიშა ონიანი",
+    "lastMessage":"თავის ტერიტორიას ბომბავდა",
+    "lastActive":"4:20 PM",
+    "unread_messages":3,
+    "isTyping":false,
+    "lastMessageType":"text"
+  },
+  {
+    "id":2,
+    "image":null,
+    "owner":"ჯემალ კაკაურიძე",
+    "lastMessage":"შემოგევლე",
+    "lastActive":"3:00 AM",
+    "unread_messages":0,
+    "isTyping":true,
+    "lastMessageType":"voice"
+  },
+  {
+    "id":3,
+    "image":"https://i.ytimg.com/vi/KYY0TBqTfQg/hqdefault.jpg",
+    "owner":"გურამ ჯინორია",
+    "lastMessage":"ცოცხალი ვარ მა რა ვარ შე.. როდის იყო კვტარი ტელეფონზე ლაპარაკობდა",
+    "lastActive":"1:00 ",
+    "unread_messages":0,
+    "isTyping":false,
+    "lastMessageType":"file"
+  },
+  {
+    "id":4,
+    "image":"",
+    "owner":"კაკო წენგუაშვილი",
+    "lastMessage":"ადამიანი რო მოსაკლავად გაგიმეტებს თანაც ქალი ის დასანდობი არ არი",
+    "lastActive":"1:00 PM",
+    "unread_messages":0,
+    "isTyping":false,
+    "lastMessageType":"text"
+  }
+]
